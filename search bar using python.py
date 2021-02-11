@@ -46,8 +46,3 @@ b2.Button(window, text='Facebok' command = facebook, width = 14, bg ='grey'
 b2.place(x = 150, y=70)
 
 window.mainloop()
-# In[ ]:
-
-
-
-
